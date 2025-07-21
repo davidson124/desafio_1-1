@@ -1,4 +1,4 @@
-The W News or Whats News is a informative website aboutlocal basketball game announcements in the marsella neighborhood.
+The W News or Whats News is a informative website about local basketball game announcements in the marsella neighborhood.
 this website was created outof a need to learn responsive HTML and CSS.
 Now, let introduce my project, it´s a bit immature, but I'm eager to lear this practice.
 Bellow I'll show you two screenshots about it.
